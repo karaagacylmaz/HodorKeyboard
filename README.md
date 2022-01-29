@@ -4,4 +4,4 @@
 New > Target > Custom Keyboard Extension
 
 ## Select Extension and Run
-![alt text](http://url/to/img.png)
+![Select Extension](https://github.com/karaagacylmaz/HodorKeyboard/blob/main/HodorKeyboard/runss.png)
