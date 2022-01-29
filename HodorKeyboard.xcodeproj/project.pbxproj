@@ -16,6 +16,7 @@
 		95D67D5E27A53D1900DB3A90 /* KeyboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D67D5D27A53D1900DB3A90 /* KeyboardViewController.swift */; };
 		95D67D6227A53D1900DB3A90 /* Hodor.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 95D67D5B27A53D1900DB3A90 /* Hodor.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		95D67D6A27A5404400DB3A90 /* hodor.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 95D67D6927A5404300DB3A90 /* hodor.jpeg */; };
+		95D67D6E27A5466F00DB3A90 /* runss.png in Resources */ = {isa = PBXBuildFile; fileRef = 95D67D6D27A5466F00DB3A90 /* runss.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		95D67D5D27A53D1900DB3A90 /* KeyboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardViewController.swift; sourceTree = "<group>"; };
 		95D67D5F27A53D1900DB3A90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		95D67D6927A5404300DB3A90 /* hodor.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hodor.jpeg; sourceTree = "<group>"; };
+		95D67D6D27A5466F00DB3A90 /* runss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = runss.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		95D67D4227A53C0E00DB3A90 /* HodorKeyboard */ = {
 			isa = PBXGroup;
 			children = (
+				95D67D6D27A5466F00DB3A90 /* runss.png */,
 				95D67D4327A53C0E00DB3A90 /* AppDelegate.swift */,
 				95D67D4527A53C0E00DB3A90 /* SceneDelegate.swift */,
 				95D67D4727A53C0E00DB3A90 /* ViewController.swift */,
@@ -199,6 +202,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				95D67D5027A53C2100DB3A90 /* LaunchScreen.storyboard in Resources */,
+				95D67D6E27A5466F00DB3A90 /* runss.png in Resources */,
 				95D67D4D27A53C2100DB3A90 /* Assets.xcassets in Resources */,
 				95D67D4B27A53C0E00DB3A90 /* Main.storyboard in Resources */,
 			);
